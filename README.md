@@ -1,7 +1,3 @@
-# Pizza_Sales_Analysis_Project
-
----
-
 ## 📊 Pizza Sales Analysis – SQL Query Tasks
 
 ### 🟢 **Basic Level**
@@ -26,5 +22,3 @@
 - 📊 Calculate the **percentage contribution** of each pizza type to the **total revenue**.  
 - 📈 Analyze the **cumulative revenue trend over time**.  
 - 🥇 For each **pizza category**, determine the **top 3 pizza types** based on **revenue**.
-
----
